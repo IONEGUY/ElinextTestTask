@@ -3,7 +3,7 @@
 //  ElinextTestTask
 //
 //  Created by MacBook on 30.04.21.
-//.
+//
 
 import UIKit
 
